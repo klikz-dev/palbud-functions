@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "plabud-434ba",
+    "prod": "palbud-434ba"
+  },
+  "targets": {},
+  "etags": {}
+}
